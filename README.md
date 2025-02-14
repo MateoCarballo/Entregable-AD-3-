@@ -6,7 +6,7 @@ Este proyecto consiste en el desarrollo de una aplicación que permita validar y
 
 ## 📊 Diagrama Conceptual de la Base de Datos
 
-[Diagrama conceptural](./Recursos/Proyecto2.png)_
+![Diagrama conceptural](./Recursos/Proyecto2.png)
 
 ## 📜 Script de la Base de Datos
 
